@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TeamWork</string>
+    <string name="action_settings">Settings</string>
+    <string name="home_activity_title">Home</string>
+    <string name="all_projects">All Projects</string>
+    <string name="task_activity_title">Tasks</string>
+    <string name="all_tasks">All Tasks from %1$s</string>
+    <string name="loading_dialog_message">Loading...</string>
+</resources>

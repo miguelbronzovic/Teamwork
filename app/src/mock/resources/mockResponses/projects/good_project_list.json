@@ -1,0 +1,123 @@
+{
+    "STATUS": "OK",
+    "projects": [
+        {
+            "replyByEmailEnabled": true,
+            "starred": false,
+            "show-announcement": false,
+            "harvest-timers-enabled": false,
+            "status": "active",
+            "subStatus": "late",
+            "defaultPrivacy": "open",
+            "integrations": {
+                "xero": {
+                    "countrycode": "",
+                    "enabled": false,
+                    "connected": "NO",
+                    "organisation": "",
+                    "basecurrency": ""
+                },
+                "microsoftConnectors": {
+                    "enabled": false
+                },
+                "onedrivebusiness": {
+                    "enabled": false,
+                    "folder": "root",
+                    "account": "",
+                    "foldername": "root"
+                }
+            },
+            "created-on": "2018-06-12T17:30:44Z",
+            "category": {
+                "name": "",
+                "id": "",
+                "color": ""
+            },
+            "filesAutoNewVersion": false,
+            "overview-start-page": "default",
+            "tags": [],
+            "logo": "https://s3.amazonaws.com/TWFiles/349705/projectLogo/tf_929A76DB-AA0C-B885-B716E9094F4683F5.animated-brazil-flag-brazilian-national-banner_h2nf-ru_F0000.png",
+            "startDate": "20140405",
+            "id": "457090",
+            "last-changed-on": "2018-07-08T19:12:10Z",
+            "endDate": "20180615",
+            "defaults": {
+                "privacy": ""
+            },
+            "company": {
+                "name": "Cat",
+                "is-owner": "1",
+                "id": "113332"
+            },
+            "tasks-start-page": "default",
+            "name": "Brazil",
+            "privacyEnabled": false,
+            "description": "This is going to be a normal description of an amazing country :D",
+            "announcement": "",
+            "isProjectAdmin": true,
+            "start-page": "projectoverview",
+            "notifyeveryone": false,
+            "boardData": {},
+            "announcementHTML": ""
+        },
+        {
+            "replyByEmailEnabled": true,
+            "starred": true,
+            "show-announcement": false,
+            "harvest-timers-enabled": false,
+            "status": "active",
+            "subStatus": "current",
+            "defaultPrivacy": "open",
+            "integrations": {
+                "xero": {
+                    "countrycode": "",
+                    "enabled": false,
+                    "connected": "NO",
+                    "organisation": "",
+                    "basecurrency": ""
+                },
+                "microsoftConnectors": {
+                    "enabled": false
+                },
+                "onedrivebusiness": {
+                    "enabled": false,
+                    "folder": "root",
+                    "account": "",
+                    "foldername": "root"
+                }
+            },
+            "created-on": "2018-07-15T13:51:56Z",
+            "category": {
+                "name": "mobile",
+                "id": "26882",
+                "color": ""
+            },
+            "filesAutoNewVersion": false,
+            "overview-start-page": "default",
+            "tags": [],
+            "logo": "https://s3.amazonaws.com/TWFiles/349705/projectLogo/tf_2E2AD316-DAF2-C47C-BA4D4BCE9184E395.Fg204.jpg",
+            "startDate": "20180715",
+            "id": "462923",
+            "last-changed-on": "2018-07-15T23:43:33Z",
+            "endDate": "20180721",
+            "defaults": {
+                "privacy": ""
+            },
+            "company": {
+                "name": "Cat",
+                "is-owner": "1",
+                "id": "113332"
+            },
+            "tasks-start-page": "default",
+            "name": "Time Machine R&D",
+            "privacyEnabled": false,
+            "description": "The Future Gadget 204, 2nd Edition Ver. 2.31 is a full-fledged time machine, albeit it is still incomplete and, as a result, is only capable of allowing the user to travel backwards in time, as opposed to the time machine developed by SERN, which enables time travel in both directions.",
+            "announcement": "",
+            "isProjectAdmin": true,
+            "start-page": "projectoverview",
+            "notifyeveryone": false,
+            "boardData": {},
+            "announcementHTML": ""
+        }
+    ]
+}
